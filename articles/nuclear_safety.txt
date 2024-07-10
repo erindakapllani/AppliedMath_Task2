@@ -1,1 +1,2228 @@
-Nuclear safety has evolved significantly since the early days of nuclear technology. It encompasses a comprehensive set of measures and protocols designed to ensure the safe operation of nuclear facilities and the protection of human health and the environment from potential radiation hazards. Key aspects of nuclear safety include rigorous engineering designs that prevent accidents, robust operational procedures to mitigate risks during routine operations, and stringent emergency preparedness plans to handle any unforeseen events. Safety assessments and inspections conducted by regulatory bodies ensure compliance with international safety standards. Nuclear safety measures are implemented across various stages, from reactor design and construction to decommissioning, with a focus on preventing accidents, maintaining reliable safety systems, and continuously improving safety culture.
+Canadian Nuclear Safety
+Commission
+2007-2008
+Departmental Performance Report
+The Honourable Lisa Raitt, P.C., M.P.
+Minister – Natural Resources Canada
+2
+3
+Table of Contents
+SECTION I: OVERVIEW........................................................................................................... 5
+Message from the President .....................................................................................................6
+Management Representation Statement...................................................................................8
+Summary Information...............................................................................................................9
+Program Activities and Key Expected Results.......................................................................12
+Nuclear Sector Overview........................................................................................................13
+Status on CNSC’s Performance .............................................................................................14
+SECTION II: ANALYSIS OF PROGRAM ACTIVITIES..................................................... 19
+Analysis by Program Activity .................................................................................................20
+Regulatory Framework ......................................................................................................... 21
+Licensing and Certification................................................................................................... 25
+Compliance ........................................................................................................................... 30
+Cooperative Undertakings .................................................................................................... 35
+Stakeholder Relations ........................................................................................................... 39
+SECTION III: SUPPLEMENTARY INFORMATION.......................................................... 41
+Table 1: Comparison of Planned to Actual Spending (including FTEs) ..............................42
+Table 2: Voted and Statutory Items ($ millions)....................................................................43
+Additional Tables....................................................................................................................44
+SECTION IV: OTHER ITEMS OF INTEREST..................................................................... 46
+Performance of the Canadian Nuclear Power Industry........................................................47
+External Performance Standards...........................................................................................50
+CNSC’s Regulatory Plan........................................................................................................52
+4
+5
+SECTION I: OVERVIEW
+6
+Message from the President
+I am pleased to submit to Parliament the Canadian Nuclear Safety Commission’s (CNSC) 2007–
+2008 Departmental Performance Report.
+The nuclear sector is experiencing significant growth as a result of the continuing rise in global
+demand for energy and the need to reduce greenhouse gas emissions. Combined with the
+increasing use of nuclear technology in industry, research and medicine, this nuclear renaissance
+is bringing about a considerable increase in the need for regulatory oversight – especially in
+areas such as licensing for nuclear fuel mining and processing facilities.
+The increase in Canadian energy requirements is occurring at a time when the country’s fleet of
+existing nuclear power plants is aging. As a result, CNSC is receiving a significant number of
+applications to refurbish and extend the life of existing nuclear power plants and to build new
+nuclear power plants to meet energy demands. To ensure that CNSC can perform its regulatory
+licensing and compliance responsibilities associated with this growth, we refocused efforts to
+respond to these developments and the proposed plans for new uranium mining and processing,
+while ensuring safety and security of existing facilities. In its Industry Report overview, CNSC
+personnel concluded that the nuclear power plant industry operated safely throughout 2007. The
+vast majority of safety areas and programs met CNSC expectations, and we are committed to
+maintaining and improving this good safety and security record.
+The CNSC achieved significant results during Fiscal Year 2007-2008. We improved
+relationships with our stakeholders; reallocated resources to address the growing interest in new
+nuclear power plants; streamlined and strengthened the regulatory framework; established a
+foundation to improve Aboriginal consultations; and invested in our employees who are key to
+the success of the organization. These are just a few examples of the excellent work CNSC has
+undertaken over the past year to enhance the health, safety and security of Canadians and the
+environment.
+In late 2007, the extended shutdown of the National Research Universal (NRU) reactor in Chalk
+River resulted in concerns about the supply of isotopes that are used for medical diagnostics and
+treatments. As a result, the government issued a directive to CNSC to ensure that the health of
+Canadians is taken into account in CNSC licensing decisions. This incident led CNSC and
+Atomic Energy of Canada Limited to jointly commission a review by an independent third party.
+The review will identify a number of critical lessons and resulting action plans, and provide
+recommendations for improvement, which will be reviewed and implemented by CNSC during
+the 2008-2009 Fiscal Year.
+CNSC actively works with our international partners to share best practices in nuclear safety and
+to strengthen Canada’s commitments to non-proliferation and the peaceful use of nuclear
+materials. Our organization continues to actively participate in the activities of the International
+Atomic Energy Agency and the Nuclear Energy Agency.
+In the short time since my arrival, I have been impressed by the expertise and dedication of
+CNSC’s workforce. Going forward, the recruitment and retention of skilled staff will remain an
+7
+important priority for CNSC. We will be strengthening our staffing efforts in a highly
+competitive market to respond to industry growth.
+I am committed to assuring Parliament and Canadians that the use of nuclear materials in nuclear
+facilities is safe and secure.
+With respect,
+Michael Binder
+President
+8
+Management Representation Statement
+I submit for tabling in Parliament, the 2007-2008 Departmental Performance Report for The
+Canadian Nuclear Safety Commission.
+This document has been prepared based on the reporting principles contained in the Guide for
+the Preparation of Part III of the 2007-2008 Estimates: Reports on Plans and Priorities and
+Departmental Performance Reports:
+• It adheres to the specific reporting requirements outlined in the Treasury Board
+Secretariat guidance;
+• It is based on the department’s approved Strategic Outcome(s) and Program Activity
+Architecture that were approved by the Treasury Board;
+• It presents consistent, comprehensive, balanced and reliable information;
+• It provides a basis of accountability for the results achieved with the resources and
+authorities entrusted to it; and
+• It reports finances based on approved numbers from the Estimates and the Public
+Accounts of Canada.
+________________________________________________
+Michael Binder
+President, Canadian Nuclear Safety Commission
+9
+Summary Information
+Canadian Nuclear Safety Commission’s Mandate
+CNSC regulates nuclear energy and substances in Canada. Through its licensing, certification
+and compliance processes, CNSC ensures that nuclear activities are carried out safely, in order to
+protect people, their health and their environment. CNSC also works to ensure that Canadians
+and Canadian companies respect Canada’s international commitments on the peaceful use of
+nuclear energy.
+CNSC was established in 2000 under the Nuclear Safety and Control Act (NSCA), and reports to
+Parliament through the Minister of Natural Resources. The agency was created as a successor to
+the former Atomic Energy Control Board, which was founded in 1946. CNSC’s mandate,
+responsibilities and powers are set out in the NSCA and are elaborated in the Canadian Nuclear
+Safety Commission Rules of Procedure and the Canadian Nuclear Safety Commission By-laws.
+Through the NSCA, regulations, associated regulatory documents, licences and licence
+conditions, CNSC regulates the entire Canadian nuclear cycle and all aspects of nuclear safety.
+CNSC regulates:
+• nuclear power plants
+• uranium mines and mills
+• uranium processing and fuel fabrication facilities
+• nuclear research and test facilities and non-power reactors
+• nuclear substance processing facilities
+• radioactive waste and waste management facilities
+• hospitals and cancer treatment centres
+• heavy water production plants
+The organization is also responsible for:
+• regulating the use of nuclear substances and radiation devices, the packaging and transport of
+nuclear substances, and the import and export of nuclear substances and equipment;
+• certifying personnel who hold key safety-related jobs at nuclear facilities; and
+• ensuring security at licensed nuclear facilities.
+CNSC also has certain functions under the Nuclear Liability Act and conducts environmental
+assessments under the Canadian Environmental Assessment Act (CEAA).
+CNSC’s Commission Tribunal has up to seven permanent members, appointed by the Governor
+in Council. The President of CNSC is a permanent full-time member, and other members may be
+appointed to serve full or part time. Commission Tribunal members are chosen based on their
+credentials and are independent of all political, governmental, special interest group or industry
+influences.
+10
+The Commission Tribunal sets regulatory policy direction for the Canadian nuclear sector,
+makes legally binding regulations, and renders licensing decisions for nuclear facilities and uses.
+For licensing matters, the Commission Tribunal considers applicant proposals, recommendations
+of CNSC personnel, and stakeholder views before making its decisions. For major facilities,
+these licensing matters are considered through public hearings. To promote openness and
+transparency, the Commission Tribunal conducts business to the greatest extent possible in
+public hearings and meetings and, where feasible, in communities affected by the decision at
+hand. Proceedings are available live on the Internet and online proceedings are archived, with a
+three month retention period, on CNSC’s Web site, providing access to people across the country
+and around the world.
+Funding of CNSC Operations
+CNSC's operations are currently funded through an annual appropriation from Parliament.
+Its requirements are largely driven by the level of demand for licensing and regulatory oversight
+and by Canada's international commitments. When its workload increases, CNSC applies to the
+Treasury Board Secretariat to increase its cost-recoverable expenditures and related fee revenues
+or to receive new program funding.
+The Government of Canada recovers most costs associated with CNSC's regulatory activities
+from licensees, in accordance with the Canadian Nuclear Safety Commission Cost Recovery
+Fees Regulations (2003). CNSC collects fees and deposits them to the Consolidated Revenue
+Fund. Some licensees, such as hospitals and universities, are exempt from paying fees. In
+addition, fees are not charged for activities that result from CNSC obligations that do not provide
+a direct benefit to identifiable licensees. These include activities with respect to Canada's
+international obligations (including the non-proliferation of nuclear weapons), public
+responsibilities such as emergency management and public information programs, and updating
+of the NSCA and associated regulations as appropriate.
+Recently, due to growth in the nuclear sector, CNSC has experienced rapidly increasing demand
+for its licensing, licensee certification and pre-project power plant design review activities, and
+consequently explored alternate funding mechanisms to meet future resource requirements. In
+2007-2008, CNSC received approval from Treasury Board for revenue spending authority
+commencing in 2008-2009. This authority is being phased in over a two-year period, with full
+implementation of revenue spending authority for all cost-recoverable activities effective for
+2009-2010. The authority will enable CNSC to address growth within the nuclear sector.
+Additional Funding Received for 2007-2008
+For 2007-2008, CNSC's actual expenditures were $99.8 million. Fees received were
+approximately $72.6 million. As a result of growing activity in all areas of the nuclear
+sector over the past several years, CNSC has experienced a substantial increase in its
+workload in most areas of its responsibility.
+11
+In its 2006 budget, the Government of Canada recognized CNSC's need to expand and
+allocated it additional funds of more than $93 million, the majority of which is
+recoverable from licensees, to improve regulatory oversight over a five-year period. Of
+this funding, $23.9 million was allocated to the plan for 2007-2008. These additional
+resources enabled CNSC to fund the growth of its regulatory program, including
+overseeing nuclear power reactor refurbishment projects, expansion of uranium mining,
+research facilities, waste management, the use of nuclear substances, (including
+healthcare facilities), and addressing risks to security of nuclear facilities, while
+implementing a range of improvement initiatives.
+In the 2007-2008 Supplementary Estimates “B”, CNSC requested $0.96 million from
+Treasury Board to carry out a specific Commission Tribunal Order. These resources were
+required for the seizure and disposition of nuclear substances and prescribed equipment
+held by a licensee.
+In addition, after the receipt of two applications for site licensing for construction of new
+power reactors in Canada, CNSC requested and received approval for incremental
+funding in 2006-2007 that included funding of $5.6 million for 2007-2008 to process
+these site licensing applications. These funds are also required to modernize CNSC’s
+regulatory framework for the construction of new power plants in Canada. CNSC will
+continue to prepare to meet new demands with respect to new nuclear power plants and
+its responsibilities for domestic safeguards and non-proliferation as it shifts to a revenuespending
+regime.
+12
+Program Activities and Key Expected Results
+The CNSC works to achieve its strategic outcome through a single operational program
+activity: nuclear regulation. This program activity is sub-divided into five key programs
+or sub-activities that support CNSC’s above-mentioned priorities.
+The following table outlines the CNSC’s status on performance through its program
+activity architecture:
+2007-2008 Status on Performance
+Strategic Outcome: Safe and secure nuclear installations and processes solely for peaceful purposes; and public confidence in the
+nuclear regulatory regime’s effectiveness.
+Program
+Activity
+Program Sub-
+Activity Expected Results Performance
+Status
+Planned
+Spending Authorities Actual
+Spending
+Link to
+CNSC
+Priorities
+and GoC
+Outcomes
+Regulatory
+Framework
+A clear and pragmatic
+regulatory framework
+successfully
+met1 10,531 11,422 12,583
+Licensing and
+Certification
+Individuals and
+organizations that
+operate safely and
+conform to safeguards
+and non-proliferation
+requirements
+successfully
+met 22,752 24,677 22,670
+Compliance
+High levels of
+compliance with the
+regulatory framework
+successfully
+met 35,811 39,781 36,176
+Cooperative
+Undertakings
+Cooperation and
+integration of CNSC’s
+activities in
+national/international
+nuclear fora.
+successfully
+met 18,155 19,691 18,644
+Nuclear
+Regulation:
+To regulate the
+use of nuclear
+energy and
+materials to
+protect health,
+safety, security
+and the
+environment
+and to respect
+Canada’s
+international
+commitments
+on the peaceful
+use of nuclear
+energy
+Stakeholder
+Relations
+Stakeholders’
+understanding of the
+regulatory program
+successfully
+met 7,306 7,924 9,772
+CNSC
+Priorities: 1,2
+and 3
+GoC
+Outcome:
+Social
+Affairs –
+Safe and
+Secure
+Communities
+Total Financial Resources ($ thousands) 94,555 103,495 99,845
+Planned Actual Difference
+Total Human Resources (Full-Time Equivalent) 730 639 91
+1 While some targets were not met, much work was done throughout the fiscal year and completed shortly into April
+2008.
+13
+Nuclear Sector Overview
+The Canadian nuclear sector is experiencing rapid expansion driven by three key global trends:
+Rising worldwide energy demand
+Projections indicate that global energy demand will continue to grow, with forecasts of a 50
+percent increase by 2030. Electricity generation is also projected to nearly double by then, with
+concentration on renewable and alternative energy sources. Canadian electricity demand is
+expected to rise 1.3 percent annually until 2020, leading to a need for sustainable, clean energy
+sources, including projected increases in nuclear energy. By the year 2030, it is expected that 55
+countries will operate more than 600 nuclear power plants. In turn, this will lead to greater global
+demand for uranium and a need for uranium mining and development. As the world’s largest
+producer of uranium, Canada will be a key player in meeting the demand for nuclear energy.2
+Increasing concern about climate change
+At the same time, climate change is becoming an increasing concern and there is emerging
+international pressure for low-carbon economies and reduced greenhouse gas emissions. The
+Government of Canada has indicated that it will do its part by investing in electricity sources that
+include nuclear power.
+Growing use of medical isotopes
+There is a trend towards greater use of nuclear radioisotopes, particularly in medical imaging.
+Radioisotopes and radiation therapy equipment are also required for cancer treatments, for which
+the need is increasing, with Canada’s aging population and an expected growth in cancer rates.
+Canada’s number of Class II nuclear facilities, mainly cancer treatment centres, has doubled over
+the past five years. On December 10, 2007, the Government of Canada issued a Directive to
+CNSC regarding the health of Canadians, instructing the organization to take into account the
+health of Canadians in regulating the production, possession and use of nuclear substances.
+These trends are all shaping an increased demand for nuclear energy and materials, and CNSC is
+responding to meet the challenges associated with regulating an expanding nuclear industry. As
+Canada’s nuclear regulator, CNSC is committed to ensuring that nuclear activities are conducted
+safely and securely, and that the health of Canadians and their environment are protected.
+2 Sources: International Energy Agency, World Energy Outlook 2006; Energy Information Administration,
+International Energy Outlook 2007; Ux Consulting, Nuclear Power Outlook, October 2007.
+14
+Status on CNSC’s Performance
+CNSC Program Priorities for 2007-2008
+Manage growth of the regulatory program
+CNSC is addressing the growing interest in building new nuclear power plants in Canada as
+existing nuclear reactors age. As part of its increased focus on new nuclear power plants, CNSC
+has begun modernizing its regulatory framework to bring it in line with current international
+standards and to apply these standards to projects for building new nuclear plants.
+CNSC is clarifying regulatory expectations, particularly for potential new nuclear power plants,
+by establishing clear licence requirements and creating guidelines to help licensees meet them.
+Key regulatory documents RD-337, Design Requirements for New Nuclear Power Plants and
+RD-346, Site Evaluation for New Nuclear Power Plants, were completed over the past year and
+will be presented for final Commission Tribunal approval in early 2008-2009.
+CNSC has been working with the Government of Canada to secure additional long-term
+resources. In 2007-2008, CNSC received approval to change the mechanism of funding costrecoverable
+activities from the annual Parliamentary appropriation to a new revenue spending
+authority regime. This regime, with full implementation effective for 2009-2010, will enable
+CNSC to face current and future workload pressures associated with the growing number and
+needs of licensees.
+In the face of considerable nuclear sector expansion, CNSC requires sufficient staff to continue
+delivering its mandate. Through aggressive, innovative approaches to recruitment and retention,
+CNSC worked during 2007-2008 to secure highly qualified employees in a competitive labour
+market.
+Deliver an effective regulatory program for existing facilities
+CNSC is committed to assuring Canadians of the safety and security of current nuclear activities
+in Canada, and its day-to-day operations focus on delivering an effective regulatory program for
+existing facilities.
+In response to the nuclear industry’s plans to refurbish existing nuclear reactors, in order to meet
+growing energy demands, CNSC has devoted significant time and effort to clarify the regulatory
+expectations related to nuclear power plants and provide strong regulatory oversight for
+refurbishment activities currently in progress. For all the Canadian nuclear power plants
+undergoing refurbishment (Point Lepreau Generating Station, Bruce A Nuclear Generating
+Station and Pickering B Nuclear Generating Station), CNSC required integrated safety reviews
+15
+(ISRs)3, prepared and submitted by licensees in accordance with the IAEA’s Periodic Safety
+Review of Nuclear Power Plants – Safety Guide.
+In its sustained commitment to stringent oversight of existing facilities, CNSC reviewed
+applications to renew or amend existing licences, to verify that licensees would continue to
+operate safely and in accordance with regulations and licence conditions. Based on these
+reviews, the Commission Tribunal renewed and amended licences for existing facilities, which
+included nuclear power plants, uranium mines and waste management facilities.
+Through inspections, reviews and assessments, CNSC staff concluded that the nuclear power
+industry operated safely during 2007. The evaluation of safety areas and programs, as presented
+in its annual CNSC Staff Report on the Safety Performance of the Canadian Nuclear Power
+Industry, showed that overall, licensees made adequate provision for the protection of the
+environment, health and safety of persons, and undertook all the measures required to implement
+Canada’s international obligations. No worker at any nuclear power station or member of the
+public received a radiation dose in excess of regulatory limits, and emissions from all plants were
+well below regulatory limits. This finding is consistent with those of previous years.
+For information on the National Research Universal (NRU) Reactor, please see the Highlight at
+the end of this section.
+Implement improvement initiatives
+Initiatives are underway to coordinate the environmental assessment process for new major
+projects. CNSC worked with the Canadian Environmental Assessment Agency to develop the
+framework for the conduct of joint review panels for major nuclear projects. A joint review panel
+integrates environmental assessments and licensing requirements into a single, concurrent
+process. The panel is established as a single body to make appropriate decisions at different
+stages for the environmental assessment and first licence application for a project, while offering
+significant opportunities for public participation and exchange of views. In early Spring 2008,
+consultations will be launched for the proposed joint review panel agreements and environmental
+impact statement guidelines concerning the proposed Bruce Power New Build project and
+Ontario Power Generation Inc.’s Deep Geologic Repository.
+To address industry growth in Canada, CNSC is creating a new Directorate of Regulatory
+Improvement and Major Projects Management. The Directorate, expected to be established early
+in the 2008-2009 fiscal year, will be a single point of contact for all new build activities,
+consolidates the skills and expertise required to address major projects like new reactor design
+reviews and applications for new uranium mines and new power reactors.
+3 When considering a life extension project for a nuclear power plant, the licensee must also undertake an integrated
+safety review (ISR), which is a comprehensive assessment of nuclear power plant design and operation. The ISR
+evaluates the plant’s current state, operations and performance, in order to determine how well the plant conforms to
+modern standards and practices, and to identify any factors that would limit safe long-term operation.
+16
+The Major Projects Management Office (MPMO), established by the Government of Canada’s
+Regulatory Improvement Initiative in late 2007, aims to improve regulatory co-ordination by
+providing licence applicants with a single, efficient point of entry into the federal regulatory
+process. The MPMO was established to enhance transparency, predictability, timeliness and
+accountability of the regulatory review and Aboriginal consultation processes for major natural
+resource projects, while maintaining existing regulatory responsibilities. CNSC is committed to
+working with the MPMO to share best practices and project plans for the regulation of major
+nuclear projects.
+Enhance external engagement and outreach
+While not explicitly a program priority, CNSC is expanding its communications and outreach
+activities to fully engage Canadians, hear their concerns and respond to them. During 2007-2008,
+CNSC visited and consulted with communities throughout Canada to share information and
+gather public input on environmental assessments and licensing decisions, the performance of
+the nuclear power industry, and proposed changes to regulatory documents.
+In line with its commitment to outreach, CNSC is improving accessibility to the public and
+licensees, with a special focus on Aboriginal consultations. CNSC is making greater use of the
+Web to inform all Canadians about the nuclear sector and nuclear safety, gather public feedback,
+respond to concerns, increase transparency, and offer online licensee services.
+These four key priorities drive all CNSC activities, which are discussed in Section II of the DPR
+and are underscored by the guiding principles of safety, simplification of processes, clarification
+of requirements and expectations, timeliness, and transparency.
+CNSC Management Priorities for 2007-2008
+For this timeframe, management priorities focus on improving management practices and
+controls, and enabling the necessary infrastructure to ensure an effective delivery of the
+regulatory program.
+Quality Management Systems
+During the reporting period, CNSC developed and released its Management System Manual,
+which identifies high-level principles and processes by which the organization achieves its goals
+and objectives. The manual provides a framework for more detailed processes and procedures,
+and is a key document for all CNSC employees.
+CNSC developed a standard for the consistent application of its licensing and compliance
+activities across the organization.
+17
+Detailed technical assessment processes and review guides were initiated, to support applications
+for new power reactors.
+An electronic document and records management system was introduced in 2007-2008.
+CNSC made strides towards developing information systems and processes which increase
+compliance with federal security standards for communications networks, electronic document
+handling technologies and appropriate administrative procedures.
+Federal Accountability Act
+CNSC created a Contract Review Committee, to ensure that contractual activities are conducted
+fairly and openly, and undertook initiatives to strengthen internal control and policy
+management.
+Implementation of a First Collective Agreement
+After signing a first collective agreement in 2006, CNSC consulted regularly with the employee
+union on labour relations. The agreement, which took effect in late 2006, covered the period
+from June 14, 2004 to March 31, 2008, and will be renegotiated for the upcoming year.
+CNSC has also worked to maintain a productive working relationship, through consultations
+with the bargaining agent and with employees that are not represented.
+18
+Highlight: AECL Chalk River Laboratories National Research Universal Reactor
+In November 2005, CNSC renewed the operating licence for the National Research Universal
+(NRU) reactor with a licence condition that seven safety upgrades would be fully operational by
+December 31, 2005. In July 2006, the NRU licence was renewed for a further 63 months.
+In late 2007, there was a licensing concern related to the National Research Universal (NRU)
+reactor in Chalk River. Specifically, two of the main heavy water pumps were not connected to
+the hazards-qualified emergency power supply. At the time, the NRU reactor was shut down for
+routine maintenance. AECL subsequently informed CNSC that it would not restart the NRU
+reactor on November 22 as originally planned until the situation was corrected.
+In early December 2007, AECL requested regulatory approval to operate the NRU for a limited
+period of time with only one of the two pumps connected to the emergency power supply. CNSC
+apprised AECL that a complete safety case and request for licence amendment were required
+before the matter could be referred to the Commission Tribunal for a decision. Subsequently, on
+December 10, the Ministers of Natural Resources Canada and Health Canada wrote to the
+Presidents of CNSC and AECL, urging them to work together to restart the reactor safely with
+due regard for those relying on the medical isotopes produced by the NRU. The Government of
+Canada also issued a Directive to CNSC on December 10, instructing it to take into account the
+health of Canadians who, for medical purposes, depended on nuclear substances from nuclear
+reactors. The reactor remained shut down.
+On December 11 and 12, 2007, the House of Commons and Senate respectively passed a law that
+authorized AECL to operate the NRU reactor for 120 days with certain conditions. The reactor
+was restarted on December 16 and production of medical isotopes resumed within days.
+On January 14, 2008, Ms. Linda J. Keen was removed from her position as CNSC’s President by
+the Governor in Council. Mr. Michael Binder was appointed as the organization’s President on
+January 15.
+CNSC has initiated a review of lessons learned as part of its culture of continuous improvement.
+The review, conducted by an independent consulting firm, will provide a concise overview of
+key findings and recommended improvements that will prevent a repeat occurrence.
+The review team is examining the performance of CNSC over the period leading up to and
+pursuant to the Commission Tribunal decision to renew the NRU reactor operating licence, as
+well as the period leading up to AECL's decision to shut down the reactor. AECL is also
+conducting a lessons-learned review using the same independent consultants.
+CNSC will respond to the consultants’ report, recommendations and resulting action plans
+during the 2008-2009 fiscal year, once it has received and reviewed the report.
+19
+SECTION II: ANALYSIS OF PROGRAM ACTIVITIES
+20
+Analysis by Program Activity
+The Canadian Nuclear Safety Commission has a single strategic outcome: to ensure that
+nuclear installations and processes are safe and secure, and that they are used solely for
+peaceful purposes; and to promote public confidence in the nuclear regulatory regime’s
+effectiveness. In support of this outcome, CNSC is exclusively focused on nuclear regulation.
+Within its nuclear regulatory activity, CNSC has five program sub-activities, which represent
+key areas to achieving the priorities identified in Section I, along with the expected results of its
+program and strategic outcome.
+The following tables illustrate actual performance against commitments (from CNSC’s 2007-
+2008 Report on Plans and Priorities.)
+2007-2008 CNSC Departmental Performance Report
+21
+Program Sub-Activity: Regulatory Framework
+Expected Outcome: A clear and pragmatic regulatory framework
+Description: To develop a modern, evergreen, Canadian regulatory regime that considers all available
+science as well as operating experience and input of Canadian operators, other stakeholders and the
+international community, with the purpose to develop new and amend existing CNSC regulations, and
+create regulatory policies, standards and guides that set out the CNSC’s regulatory criteria and
+expectations.
+2007-2008
+Resources:
+($ thousands)
+Full-Time Equivalents
+Planned Spending
+10,531
+82
+Total Authorities
+11,422
+Actual Spending
+12,583
+Outcome Measures Target 2007-2008
+Results
+Achieved
+Challenges and/or Lessons Learned
+Percentage of regulations
+under review / revision in
+each year (the target of
+20% per year will ensure a
+complete rolling review
+over a 5-year period)
+20% 30%
+Number of regulations
+published in Canada
+Gazette
+3 14
+Number of regulatory
+documents finalized and
+published
+15 55
+The number and the nature of comments on draft
+regulations have taken longer to address than
+planned. These delays meant missing scheduled
+meetings of the Commission and Treasury Board
+for approval. As a result, project timelines were
+extended, pushing the steps for final approval into
+April 2008.
+The number and nature of comments on high
+priority draft regulatory documents contributed to a
+shortage of resources, especially in the area of
+technical expertise, and made it a challenge to meet
+targets.
+2007-2008
+RPP Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+Complete current regulatory documents development program and necessary amendments
+to regulations for existing facilities as follows:
+A modern
+evergreen,
+Canadian
+regulatory
+regime
+• Develop regulatory policies,
+standards and guides, and
+address gaps created by industry
+growth, on issues such as waste,
+new power reactors, expansion
+of mines and processing
+facilities, fire protection, aging
+of power reactors, and integrated
+The CNSC published the following key regulatory
+documents to provide guidelines to address gaps in
+regulatory requirements and guidance:
+• RD-360, Life Extension of Nuclear Power
+Plants
+• RD-204, Certification of Persons Working at
+Nuclear Power Plants
+• RD-310, Safety Analysis for Nuclear Power
+4A total of three regulatory proposals were made by the Commission in 2007-2008. However, amendments to the
+Class II Nuclear Facilities Regulations and the Nuclear Substances and Radiation Devices Regulations and
+miscellaneous amendments to the Canadian Nuclear Safety Commission Cost Recovery Fees Regulations were not
+registered and published in the Canada Gazette Part II until April 2008.
+5 Development work was completed for RD-58, Thyroid Screening for Volatile Radioiodine, and final approval was
+received from the Commission Tribunal in April 2008. An additional five document projects were completed and
+are scheduled for presentation for final approval in early 2008-2009.
+2007-2008 CNSC Departmental Performance Report
+22
+2007-2008
+RPP Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+safety management Plants
+• G-323, Ensuring the Presence of Sufficient
+Qualified Staff at Class I Nuclear Facilities –
+Minimum Staff Complement, and
+• S-210, Maintenance Programs for Nuclear
+Power Plants
+• Develop new Nuclear
+Safeguards Regulations based on
+the requirements of the Canada -
+IAEA Safeguards Agreement and
+Additional Protocol
+CNSC staff continued to work on new Nuclear
+Safeguards Regulations to clarify and consolidate
+measures to be undertaken by licensees to meet the
+requirements of the NSCA and the Safeguards
+Agreement and Additional Protocol between
+Canada and the IAEA.
+Progress on this initiative is slower than expected,
+since priority is being given to the development and
+establishment of a State-level integrated safeguards
+approach, the effort to effectively implement new
+requirements arising from the Additional Protocol
+to the Canada/IAEA safeguards agreement remains
+higher than anticipated. Both activities are diverting
+technical staff from this regulatory initiative.
+• Revise the following regulations:
+o Nuclear Substances and
+Radiation Devices
+Regulations
+o Class II Nuclear Facilities
+and Prescribed Equipment
+Regulations
+o Nuclear Non-Proliferation
+Import and Export Control
+Regulations
+o Canadian Nuclear Safety
+Commission Rules of
+Procedure and Canadian
+Nuclear Safety Commission
+By-laws
+CNSC amended the Nuclear Substances and
+Radiation Devices Regulations and the Class II
+Nuclear Facilities and Prescribed Equipment
+Regulations, with related consequential
+amendments to the General Nuclear Safety and
+Control Regulations and the Class I Nuclear
+Facilities Regulations.
+The amendments to these regulations address some
+deficiencies that came to light since the original
+implementation in May 2000, and correct some
+inconsistencies, in order to better protect workers,
+the public and the environment, and adopt the latest
+international standards for exemption values and
+clearance levels.6
+CNSC sought initial comments from stakeholders
+on proposed amendments to the Class II Nuclear
+Facilities and Prescribed Equipment Regulations,
+requiring the certification of Radiation Safety
+Officers for Class II nuclear facilities. 7
+Amendments to the Nuclear Non-Proliferation
+Import and Export Control Regulations were
+6 The changes were registered and published in Part II of the Canada Gazette after fiscal year end.
+7 The majority of Class II nuclear facilities are cancer clinics that use a wide variety of radioactive nuclear
+substances, together with particle accelerators, to treat cancer.
+2007-2008 CNSC Departmental Performance Report
+23
+2007-2008
+RPP Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+developed in 2007-2008, to ensure that CNSC
+import/export control requirements for nuclear and
+nuclear-related dual-use items continue to meet
+international standards. Comments from industry
+were sought prior to completing the draft
+regulations.
+Continued progress has been made on amendments
+to the Canadian Nuclear Safety Commission Rules
+of Procedure and the Canadian Nuclear Safety
+Commission By-laws.
+Produce regulatory documents for
+new activities (new reactor
+construction, uranium mining and
+milling expansion, waste
+repositories, Class II facilities etc.)
+The Commission Tribunal approved for
+consultation the following key documents that set
+out guidance related to the siting and design of new
+nuclear power plants:
+• RD-346, Site Evaluation for New Nuclear
+Power Plants, and
+• RD-337, Design of New Nuclear Power Plants
+CNSC developed RD-58, Thyroid Screening for
+Volatile Radioiodine, which provides guidance on
+screening programs for volatile radioiodines, which
+are used in medical and research facilities. Final
+approval from the Commission Tribunal was
+anticipated for April 2008.
+Improve and update the regulatory
+framework, in order to make it more
+strategic, internationally
+benchmarked and forward-looking,
+while maintaining its transparency
+CNSC strengthened the roles and responsibilities of
+its Regulatory Policy Committee (RPC), as a way to
+ensure that the management of CNSC’s regulatory
+framework is better aligned with the organization’s
+overall strategic direction and with developments in
+the nuclear sector.
+In September 2007, the Commission Tribunal
+approved a revised regulatory framework, proposed
+by the RPC, for the development and approval of
+regulations and regulatory documents.
+CNSC is also responding to the renewed focus on
+regulation, as set out in the Cabinet Directive on
+Streamlining Regulation (CDSR). Amongst other
+policy objectives, the CDSR calls for expanded
+consultation with stakeholders on regulatory
+initiatives. In line with this requirement, CNSC took
+steps to enhance its existing stakeholder
+consultation efforts, by holding information
+sessions on key regulatory documents related to the
+siting and design of new nuclear power plants, and
+by posting the public comments related to these
+documents on its Web site, for further comment.
+2007-2008 CNSC Departmental Performance Report
+24
+2007-2008
+RPP Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+A modernized
+safeguards
+framework for
+Canada
+Design and implement a new
+national safeguards system to
+complement international
+agreements
+In 2007-2008, CNSC examined proposals for the
+establishment of a national verification framework
+aimed at controlling and reporting on the use of
+nuclear materials in Canada, and benchmarked the
+proposals against similar frameworks in other
+countries.
+As part of the move towards a new approach for the
+implementation of IAEA’s verification system in
+Canada, the latest accomplishments include the
+implementation of a new way to verify the transfer
+of spent fuel at multi-unit reactor stations, and
+significant progress in the revision of safeguards
+verification processes at uranium processing
+facilities and nuclear power reactors.
+2007-2008 CNSC Departmental Performance Report
+25
+Program Sub-Activity: Licensing and Certification
+Expected Outcome: Individuals and organizations that operate safely and conform to
+safeguards and non-proliferation requirements
+Description: Issuance of licences and/or certifying persons and prescribed equipment to conduct nuclearrelated
+activities in Canada. In order to issue a licence or a certificate, the CNSC must obtain evidence of
+the licensee’s ability to operate safely and conform to safeguards and non-proliferation obligations.
+2007-2008
+Resources:
+($ thousands)
+Full-Time Equivalents
+Planned Spending
+22,752
+195
+Total Authorities
+24,677
+Actual Spending
+22,670
+Outcome Measures Target
+2007-2008
+Results
+Achieved
+Challenges and/or Lessons Learned
+Number of Significant
+Development Reports
+(SDRs) subsequent to
+licence approval
+n/a 19 SDRs CNSC staff members assess the significance of all
+events or situations that are outside the normal
+operations described in the licensing documents.
+Significance is determined by using operational
+procedures or formalized expert judgement.
+Situations deemed to be of high significance with
+respect to the protection of health, safety and the
+environment, the maintenance of security, and
+compliance with international obligations shall be
+reported to the Commission in an SDR Commission
+Member Document (CMD).
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+Document internal licensing
+policies, processes and
+procedures, and implement the
+tools required for a consistent and
+effective licensing and
+certification process.
+CNSC created high-level process maps for its
+licensing activities. These documents will serve as a
+blueprint for consistent, well-founded regulatory
+decisions.
+The licensing system database continues to be
+improved for licence administration, and is integrated
+with compliance activities, regulatory activity
+planning and monitoring.
+Prepared Review Guides for the site preparation of
+licensing process for new nuclear power plants. This
+process increases the potential for high quality
+submissions from proponents.
+Develop and
+implement riskinformed,
+consistent and
+predictable
+licensing and
+certification
+processes
+Complete documentation on and
+improvements to CNSC’s
+environmental assessment and
+oversight programs
+CNSC has been working with the Canadian
+Environmental Assessment Agency (CEAA) to
+develop the Guidelines and Joint Panel Agreement
+for environmental assessments related to new
+reactors.
+2007-2008 CNSC Departmental Performance Report
+26
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+An agreement between the Canadian Environmental
+Assessment Agency (CEAA) and CNSC was
+finalized with respect to the establishment of two
+Joint Review Panels: one for the siting and
+construction of new nuclear power reactors by Bruce
+Power within the municipality of Kincardine, ON,
+and the other for the construction of a Deep Geologic
+Repository project by Ontario Power Generation,
+also in Kincardine, ON.
+Early referral of the environmental assessment should
+speed up the process and has given stakeholders a
+shorter time period to apply for a licence before the
+Commission.
+Implemented an Integrated Document Review
+process to achieve consistent, high quality and
+predictable documentation. This process has a builtin
+peer review step, which increases confidence in
+reviews and provides consistency.
+Prepared Review Guides for the environmental
+components of licensing process for new nuclear
+power plants. This process increases the potential for
+high quality submission from proponents.
+Implement processes for licensing
+new nuclear facilities including,
+but not limited to, new nuclear
+power plants and new waste
+management facilities
+Implementation of the licensing process for Ontario
+Power Generation (OPG) Darlington & Bruce Power
+new nuclear power plants. Study for the OPG Deep
+Geological Repository continued.
+Implement the provisions of the
+Code of Conduct on the Safety
+and Security of Radioactive
+Substances, including initiatives
+to strengthen export/import
+licensing and control risksignificant
+sources
+CNSC has implemented inventory tracking controls
+using a Sealed Source Tracking System (SSTS),
+within an upgraded National Sealed Source Registry
+(NSSR). Using a secure Web-based system, licensees
+report possession and transactions involving sealed
+sources within strict reporting timeframes. The SSTS
+and NSSR allow CNSC to track high-risk radioactive
+sealed sources from their manufacture to their final
+disposition. To implement the system, CNSC
+amended licences to legally require the reporting of
+radioactive source transactions.
+As of April 1, 2007, those wishing to export
+Category 1 or Category 2 sealed sources need to
+obtain transaction-specific export licences from
+CNSC. During 2007-2008, CNSC issued more than
+300 licences for sealed-source exports to more than
+40 countries. With this step, CNSC is now fully
+compliant with the Code of Conduct on the Safety
+2007-2008 CNSC Departmental Performance Report
+27
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+and Security of Radioactive Sources and its
+supplementary Guidance on the Import and Export of
+Radioactive Sources. Together with the NSSR, the
+strengthened controls will assure Canadians and the
+global community of secure international transfers.
+As the first country with such robust inventory
+tracking, Canada has set an international example for
+ensuring the safety and security of high-risk
+radioactive sealed sources.
+CNSC is working to establish clear and harmonized
+working arrangements and understandings with its
+counterparts in importing countries.
+CNSC regulates the largest volume of export
+transactions of risk-significant radioactive sources
+(RSRS) globally, and strongly advocates the sharing
+of best practices and experiences internationally, as
+additional key to reviewing experiences in
+implementing export/import controls.
+In 2007, the registry had information on 13,556
+radioactive sealed sources in Canada, an increase of
+6,406 over the previous year. The SSTS registered
+more than 39,000 transactions of all types throughout
+the year, which represents a 31-percent increase over
+2006. This dramatic increase is partly attributed to
+increased outreach, which resulted in better
+awareness in the licensed community, and partly to
+the inclusion of new information in the database
+submitted by manufacturers of sealed sources.
+Improve the
+effectiveness and
+efficiency of the
+Commission
+Tribunal licensing
+process
+Evaluate the tribunal process and
+implement recommendations
+During 2007-2008, the Commission Tribunal held a
+greater number (29) of abridged hearings, which
+allow certain types of licence amendments to be
+addressed more efficiently. Abridged hearings, which
+deal with decisions that are administrative in nature –
+or when the licence amendments requested are less
+significant or are for licence replacements – provide
+greater efficiency and speed of process.
+Review and make
+recommendations
+to the Tribunal
+with respect to
+applications for
+renewal of
+current licenses
+across the
+regulatory
+program
+Manage the licensing of existing
+licensees
+The Commission Tribunal made 43 decisions related
+to nuclear facilities. A complete listing of hearings
+can be found on CNSC’s Web site
+www.nuclearsafety.gc.ca. Also, the CNSC met two
+of its three performance standard targets related to
+licensing.
+CNSC renewed operating licenses for the following
+waste management facilities:
+• Ontario Power Generation’s (OPG) Darlington
+2007-2008 CNSC Departmental Performance Report
+28
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+waste management facility
+• OPG’s Pickering waste management facility
+• OPG’s Western waste management facility
+located at their Bruce Nuclear Generating Station
+Hydro Quebec’s operating licence for their waste
+facility located in Gentilly, Quebec was amended to
+permit the construction of a new waste area.
+OPG was granted an operating licence for their newly
+completed used dry fuel storage facility located at
+their Darlington Nuclear Generating Station.
+New Brunswick Power received approval from the
+CNSC to operate the newly completed Phase 1
+expansion of their Point Lepreau, New Brunswick
+waste management facility.
+Manage the certification of
+personnel, packages and
+prescribed equipment
+As part of ongoing staff training initiatives, CNSC
+continued to designate inspectors and train staff in
+the conduct of verification activities.
+CNSC will no longer directly examine shift
+personnel whose positions are referred to in nuclear
+power plant operating licences. The candidate’s
+competence for CNSC certification will be verified
+through increased regulatory oversight of the
+licensees’ training and examination programs. RD-
+204, Certification of Persons Working at Nuclear
+Power Plants, which outlines the regulatory
+requirements, was approved by the Commission
+Tribunal on September 13, 2007, and published on
+February 15, 2008.
+CNSC issued 48 certificates related to transport (18
+Canadian package design certificates, 20
+endorsements of foreign package design certificates,
+eight special form certificates and 2 special
+arrangements certificates) and 52 certificates related
+to certification of radiation devices and Class II
+prescribed equipment.
+Conduct environmental
+assessments to respond to licence
+applications for new mines, new
+reactor construction, refineries,
+waste repositories and Chalk
+River Laboratories legacy projects
+During 2007-2008, 27 environmental assessments
+remained active and two were completed. Eleven
+major environmental assessments underwent
+extensive public consultation.
+Three comprehensive studies were also underway.
+These included drafting the environmental
+assessment track report for AREVA Resources
+Canada Inc.’s proposed uranium mining operations in
+2007-2008 CNSC Departmental Performance Report
+29
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+northern Saskatchewan for the Commission
+Tribunal’s consideration.
+Some of the key challenges are to ensure the proper
+level of public consultation, including Aboriginal
+consultation, and meeting government reporting
+requirements for the Major Projects Management
+Office (MPMO).
+2007-2008 CNSC Departmental Performance Report
+30
+Program Sub-Activity: Compliance
+Expected Outcome: High levels of compliance with the regulatory framework
+Description: Effective oversight of compliance with regulatory requirements, which is critical to assuring
+Parliament and the Canadian public that nuclear energy and materials are being used safely and securely, as
+well as in a manner that respects Canada’s international commitments concerning their peaceful use.
+2007-2008
+Resources:
+($ thousands)
+Full-Time Equivalents
+Planned Spending
+35,811
+284
+Total Authorities
+39,781
+Actual Spending
+36,176
+Outcome Measures Target
+2007-2008
+Results
+Achieved
+Challenges and/or Lessons Learned
+Levels of performance of
+licensees as measured by
+the CNSC through
+inspections, events,
+assessments, and
+evaluations of compliance
+with regulatory
+requirements
+B rating Most of the
+ratings in the
+2007 Industry
+Report were “B”
+grades (B =
+meets
+requirements)
+Nuclear power plants ratings are assigned for both
+the quality of the safety program and its
+implementation. CNSC publishes the ratings
+annually in the CNSC Staff Report on the Safety
+Performance of the Canadian Nuclear Power
+Industry. The report for 2007, along with those of
+previous years, is available on CNSC’s Web site at
+www.nuclearsafety.gc.ca.
+100% provision by CNSC
+of nuclear transfer
+notifications and reports
+pursuant to bilateral
+administrative
+arrangements
+100% Achieved This result contributed to the effectiveness of
+bilateral Nuclear Cooperation Agreements (NCAs)
+and corresponding Administrative Arrangements
+(AAs) provisions and measures. The initiative
+provides greater assurance that exports and imports
+of nuclear items subject to bilateral NCAs were
+tracked and accounted for, both in Canada and in
+partner NCA countries, and that such nuclear items
+would therefore be used solely for peaceful purposes
+and would not contribute to a nuclear proliferation
+threat.
+Annual IAEA statement
+indicating Canada’s
+compliance with
+international requirements
+with respect to safeguards
+and non-proliferation
+Positive
+conclusion
+from the
+IAEA
+Achieved For 2007, IAEA once again concluded that all
+nuclear material in Canada was being used for
+peaceful activities. Based upon the results of its
+verification activities throughout the year and all
+available safeguards-related information, the IAEA
+declared that it found no indication of the diversion
+of nuclear material, pursuant to the Canada/IAEA
+safeguards agreement, and no indication of
+undeclared nuclear material or activities in Canada.
+Canada is one of 47 Member States for whom the
+IAEA has drawn this comprehensive safeguards
+conclusion.
+2007-2008 CNSC Departmental Performance Report
+31
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+Complete the
+implementation of
+risk-informed and
+consistent
+compliance
+process in all
+regulated sectors
+Document internal policies,
+processes and procedures, and
+implement the tools that support
+the compliance process
+CNSC created high-level process maps for its
+compliance activities. These documents will serve as
+a blueprint for compliance procedures, leading to
+consistent, well-founded regulatory decisions and
+licensing recommendations.
+CNSC staff completed several checklists to
+document radiation protection expectations to be
+verified during routine Type II inspections of nuclear
+power facilities.
+Assure Canadians
+of the continuing
+compliance and
+safety
+performance of
+licensees
+Execute baseline compliance
+program requirements
+As stated in the 2007 Staff Report on the Safety
+Performance of the Canadian Nuclear Power
+Industry (Industry Report), CNSC concluded that
+overall, the Canadian nuclear power plant industry
+operated safely. The report for 2007, along with
+those of previous years, is available on CNSC’s Web
+site at www.nuclearsafety.gc.ca.
+In 2007-2008, all nuclear cycle and research
+facilities were inspected at least once by CNSC
+inspectors. In total, 123 inspections were carried out,
+resulting in a variety of follow-up activities to ensure
+compliance with site-specific licences, the Nuclear
+Safety and Control Act and its regulations. Of the
+123 inspections conducted, nine were Type I
+inspections and the remaining 114 were Type II
+inspections.8
+For nuclear substance regulation, CNSC
+implemented a new standard regarding inspections
+whereby an inspector will produce a report for issue
+to the licensee within 60 business days of an
+inspection. This condition was met in 90% of type II
+inspections of high-risk licensees during 2007-2008.
+Type I inspections have presented a challenge
+because of rapid expansion at nuclear medicine
+facilities at Canadian hospitals and an associated
+increase in regulatory work. Mitigating strategies
+have been put in place, enabling the CNSC to
+identify potential risks early in the process and to
+ensure the safety of the Canadian public despite
+limited resources.
+8 Type I inspections are thorough, resource-intensive, complex on-site reviews that assess and verify key areas of
+licensee compliance. Type II inspections are point-in-time, snapshot verifications of licensee activities, which focus
+on outputs or performance of licensee programs, processes and practices. Findings from Type II inspections play a
+key role in identifying where a Type I inspection may be required to determine systemic problems in licensee
+programs, processes or practices.
+2007-2008 CNSC Departmental Performance Report
+32
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+CNSC staff also collaborated with Canada Border
+Services Agency (CBSA) officials to address issues
+of export detentions at the border resulting from
+non-compliance with the NSCA or export licence
+conditions.
+CNSC continued to monitor existing uranium mines,
+to verify compliance with regulatory and licence
+requirements, and ensured that its findings were
+accurately reported to stakeholders and the
+Commission Tribunal.
+Develop strategies to
+promote/enforce compliance where
+licensee deficiencies have been
+identified, and responding to risksignificant
+licensee reports and
+findings
+CNSC’s security specialists conducted five Type I
+security inspections at Canadian nuclear power
+plants and at Atomic Energy of Canada Limited’s
+Chalk River Laboratories.
+CNSC performed 15 Type II security inspections at
+nuclear power plants, waste management facilities,
+Chalk River Laboratories and at Atomic Energy of
+Canada Limited’s Whiteshell Laboratories. CNSC
+personnel also performed 150 Type II security
+inspections at those licensed facilities that use sealed
+radioactive sources.
+CNSC personnel reviewed 10 site security reports
+submitted by licensees who store Category I and II
+nuclear material to ensure they met CNSC’s
+requirements.
+CNSC personnel also assessed 18 transportation
+security plans, 118 transportation licence
+applications, 30 import licence applications and 71
+export licence applications from the security
+requirements perspective.
+CNSC worked actively with approximately 130
+industrial radiography licensees and convened
+regional meetings to explain regulatory
+requirements, responding to licensee concerns and
+describing new regulatory initiatives.
+Assure
+international
+agencies that
+nuclear material,
+substances and
+technologies in
+Canada are used
+in compliance
+with the
+Apply the requirements of
+multilateral conventions and
+arrangements
+All imports of nuclear material (such as uranium)
+into Canada were licensed and controlled through
+CNSC import licences, issued under the Nuclear
+Non-Proliferation Import and Export Control
+Regulations. In accordance with Canada’s
+international commitments, CNSC also applied
+additional accounting, tracking and administrative
+controls, to assure Canada and the supplying country
+that material would be used solely for peaceful
+2007-2008 CNSC Departmental Performance Report
+33
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and
+Lessons Learned
+purposes.
+A key challenge is to assure that the Canadian
+nuclear material tracking and accounting systems
+remain responsive to the dynamic complexity of
+global marketing and transfer processes involving
+nuclear material (uranium), and therefore that
+transfers of imported foreign-obligated material
+within and from Canada can be adequately
+accounted for and reported on pursuant to treaty
+obligations with bilateral NCA partner countries.
+Government of
+Canada’s
+international
+commitments.
+Implement the requirements of the
+Canada-IAEA Safeguards
+Agreement and Additional
+Protocol for verification of the
+peaceful use of nuclear energy in
+Canada
+In implementing the Canada/IAEA safeguards
+agreement, CNSC reviewed and submitted an
+unprecedented number (13) of new or updated
+facility design information questions, which form the
+basis for effective safeguards approaches. CNSC
+personnel also worked extensively on new
+safeguards approaches and procedures for the defuelling
+of two reactors at the Pickering A Nuclear
+Generating Station.
+Assuring Canadians of the Continuing Compliance and Safety Performance of Licensees
+CNSC’s role in enforcing compliance with nuclear substance-related licences was illustrated in
+June 2007, when the Commission Tribunal concluded that 588972 Alberta Ltd. (operating as
+Enviropac) in Edmonton, Alberta, was no longer qualified to carry on the activities authorized by
+its licences. The Tribunal then suspended the storage, processing of unsealed nuclear substances,
+and calibration licences that it had previously issued to Enviropac. In July 2007, CNSC seized all
+nuclear substances and prescribed equipment at the Edmonton site, removed all the high-risk
+sealed sources and transferred them to a licensed facility for further examination, pending a
+federal court order for disposal. In February 2008, an independent contractor carried out the
+necessary work to remove all remaining nuclear substances and prescribed equipment from the
+Enviropac site, and the nuclear substances were stored at a licensed facility, also pending a
+federal court order for disposal. Further investigation of the Enviropac building, in March 2008,
+revealed that the radioactive contamination was greater than initially expected, and that it was
+present in additional areas of the facility. The decontamination of these areas will continue in
+2008.
+On July 13, 2007, during a scheduled maintenance shutdown at the Cameco Port Hope
+conversion facility, contamination in the soil beneath Building 50 was discovered in an
+excavation made to install a new cooling water tank. Following this discovery, all production
+operations inside the building were shut down, and an independent investigation to determine the
+sources and extent of the contamination was initiated by Cameco Corporation. With the
+discovery of this incident, CNSC and the Ontario Ministry of the Environment enhanced the
+regulatory oversight of the situation to prevent unreasonable risk to human health and the
+environment.
+2007-2008 CNSC Departmental Performance Report
+34
+In October 2007, Cameco submitted a root cause investigation report to the Commission, along
+with a remedial action plan (RAP) to collect and treat the effected groundwater, as well as a plan
+to rehabilitate Building 50, in order to address any potential adverse environmental impacts from
+the incident. In mid-October 2007, CNSC personnel issued a request under subsection 12(2) of
+the General Nuclear Safety and Control Regulations, directing Cameco Corporation to install a
+groundwater treatment system to assist in mitigating potential impacts of the contamination.
+Cameco Corporation was also requested to submit a revised RAP, to address the subsurface
+contamination.
+By the first quarter of 2008, a groundwater collection and treatment system had been installed,
+and rehabilitation work within the building had been initiated. Approximately 660 tons of
+concrete floors and 3,530 tons of soil located beneath Building 50 and adjacent to the south side
+of the building were removed. The design and installation of the liquid effluent handling system
+being installed by Cameco Corporation have been inspected extensively, as part of the enhanced
+regulatory oversight undertaken throughout the event.
+Most recent groundwater and surface water monitoring data indicated that, although trace
+amounts of contaminants from the sub-surface of Building 50 had reached the Port Hope
+harbour’s turning basin, there were no indications that water quality in the harbour had changed.
+Based on the review of the information available to date, CNSC personnel concludes there is no
+immediate risk to the environment or the general public.
+It is anticipated that the production operations at Building 50 of Cameco Corporation’s Port
+Hope conversion facility will resume by the fourth quarter of 2008. CNSC staff will continue its
+enhanced regulatory oversight of the situation.
+2007-2008 CNSC Departmental Performance Report
+35
+Program Sub-Activity: Cooperative Undertakings
+Expected Outcome: CNSC cooperates and integrates its activities in national/international
+nuclear fora
+Description: Involvement in international nuclear organizations, promoting Canadian interests, and
+evaluating international recommendations, standards and guides for a possible integration in CNSC’s
+regulatory framework.
+2007-2008
+Resources:
+($ thousands)
+Full-Time Equivalents
+Planned Spending
+18,155
+112
+Total Authorities
+19,691
+Actual Spending
+18,664
+Outcome Measures Target 2007-2008
+Results
+Achieved
+Challenges and/or Lessons Learned
+100 % annual
+reconciliation by the
+CNSC of bilateral nuclear
+material inventory reports
+100% Achieved Reconciliation of nuclear material accounts of
+bilateral transfers of nuclear material provides
+greater assurance that the exports and imports of
+such nuclear material are solely for peaceful
+purposes
+All Annual Inventory Reports received by the CNSC
+during 2007-2008 were reviewed, issues requiring
+consultation for the purposes of reconciliation were
+identified and a process/schedule for resolution
+agreed with the CNSC’s foreign counterpart.
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+Effective, efficient
+and cooperative
+CNSC emergency
+preparedness
+framework and
+infrastructure
+Negotiate new agreements with
+other government departments and
+certain provinces
+The amendment to Memorandum of Understanding
+(MOU) with Emergency Management Ontario
+negotiated and pending approval.
+Strengthen and
+improve the IAEA
+safeguards system
+Provide technical support and other
+resources necessary to the IAEA’s
+safeguards program
+CNSC continued to provide technical advice to
+Canada's Permanent Representative to the IAEA
+during meetings of the IAEA Board of Governors.
+CNSC provides Canada's representative to the IAEA
+Director General's Standing Advisory Group on
+Safeguards Implementation (SAGSI). The Canadian
+representative is also the current chair of SAGSI, a
+group of experts that provides advice on the
+technical objectives and implementation of IAEA
+safeguards and on the effectiveness and efficiency of
+specific implementation practices. Participation in
+this forum enables CNSC to influence the
+international verification system and to provide input
+2007-2008 CNSC Departmental Performance Report
+36
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+based upon Canada’s experience.
+CNSC also provides Canadian representation to the
+IAEA Commission on Safety Standards (CSS) and
+its subcommittees on standards for nuclear facilities,
+radiation protection, transport and waste.
+CNSC's regulatory expertise received international
+recognition when the IAEA called upon CNSC staff
+to participate in multilateral peer review missions to
+Australia, Japan and Romania, to evaluate these
+countries' regulatory frameworks and practices.
+In 2007-2008, CNSC delivered a comprehensive
+Canadian Safeguards Support Program (CSSP)
+which provides technical support and other resources
+to enhance the implementation of safeguards by
+CNSC and the IAEA.
+Establish and review cooperative
+arrangements with foreign nuclear
+regulators, and federal and
+provincial organizations,
+departments and agencies on an
+ongoing basis
+CNSC has also been working with other government
+departments to ensure the safety and security of
+radioactive materials. In December 2007, CNSC and
+Transport Canada updated a Memorandum of
+Understanding (MOU) first signed in 1981. The new
+MOU clarifies responsibilities for the transport of
+radioactive materials in Canada and promotes
+enhanced collaboration and communication between
+the two parties.
+Effective, efficient and cooperative
+CNSC emergency preparedness
+framework and infrastructure
+CNSC adopted a formal business continuity planning
+program, which will enable the organization to
+protect its resources and deliver critical services
+during emergencies.
+Effective
+cooperation with
+international,
+federal and
+provincial
+organizations,
+departments and
+agencies
+Conduct annual reviews of
+cooperative arrangements with
+foreign regulatory counterparts and
+international organizations
+CNSC conducted a review of its involvement in
+activities of the Organisation for Economic Cooperation
+and Development’s Nuclear Energy
+Agency. CNSC continued to participate in and
+contribute to the Multinational Design Evaluation
+Programme coordinated by the NEA. This initiative
+allows regulators who are evaluating new reactor
+designs to pool their knowledge and experience,
+thereby providing CNSC with an opportunity to
+exchange information with its foreign counterparts.
+In 2007-2008, the cooperative arrangement between
+France's Nuclear Safety Authority (NSA) and CNSC
+led to an enhanced cooperation agenda on various
+issues, such as power reactor regulation, or the
+regulation of tritium and of radiation therapy
+activities.
+2007-2008 CNSC Departmental Performance Report
+37
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+Renew existing regulatory
+information cooperation
+arrangements, where appropriate.
+CNSC renewed its MOU on nuclear regulatory
+cooperation with the Ministry of Science and
+Technology (MOST) of the Republic of Korea,
+which benefits the CNSC by providing enhanced
+access to MOST’s scientific and technical expertise.
+The CNSC maintains MOUs with regulatory
+counterparts around the world, in order to strengthen
+safety standards with respect to nuclear facilities,
+through technical cooperation and information
+exchanges in nuclear regulatory matters.
+CNSC’s MOU with regulators in China and
+Romania were due for renewal at the end of 2007-
+2008, but unexpected high turnaround times caused
+these to lapse. CNSC aims to renew these
+agreements without further delay, and to incorporate
+automatic renewal clauses in all MOUs.
+Initiate new arrangements for
+regulatory cooperation where
+appropriate.
+CNSC expanded its network of bilateral Memoranda
+of Understanding (MOU) on regulatory cooperation,
+signing arrangements with the Australian Radiation
+Protection and Nuclear Safety Agency, the Republic
+of Korea's Ministry of Science and Technology and
+South Africa's National Nuclear Regulator. These
+arrangements provide CNSC with improved
+opportunities to share expertise on various issues,
+including CANDU reactor regulation, research
+reactor safety and uranium mining.
+Following the June 11, 2007, signing of a
+cooperative arrangement between South Korea's
+Ministry of Science and Technology and CNSC,
+meetings with South Korean regulatory
+representatives were held throughout the year. These
+meetings focused on technical discussions about
+CANDU reactors (used in South Korea) and CNSC's
+experience in integrating international standards into
+domestic regulation.
+Collaborate with Foreign Affairs
+and International Trade Canada
+with respect to the international
+nuclear non-proliferation regime
+and associated nuclear cooperation
+with India, Romania and others.
+CNSC collaborated with Defence Research and
+Development Canada (DRDC) to develop and
+deliver the International First Responder Training
+Program, funded by Foreign Affairs and
+International Trade Canada's Counter-Terrorism
+Capacity Building Program. The program helps
+beneficiary countries (currently Indonesia, Malaysia,
+the Philippines and Thailand) improve their capacity
+to respond to acts of chemical, biological,
+radiological, nuclear and explosive terrorism. A
+CNSC team traveling throughout Southeast Asia
+conducted three training missions during 2007-2008,
+2007-2008 CNSC Departmental Performance Report
+38
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and/or
+Lessons Learned
+and nearly 2,000 first responders have received onsite
+training to date. Canadian Embassies and High
+Commissions in beneficiary countries have
+applauded this program, which is recognized as a
+flagship Canadian initiative.
+CNSC worked with Foreign Affairs and
+International Trade Canada, along with other
+government departments, to help develop and
+implement Canadian domestic and international
+policy, programs, initiatives and measures in the
+areas of nuclear non-proliferation, safeguards,
+import/export control and security. This included
+participating in a number of major non-proliferation
+and safeguards-related initiatives and events:
+• the 2007 Preparatory Committee meeting under
+the Treaty on the Non-Proliferation of Nuclear
+Weapons
+• the Consultative Group and the Plenary of the
+Nuclear Suppliers Group
+• International Atomic Energy Agency (IAEA)
+General Conference and Board of Governors
+• the IAEA Committee on Safeguards and
+Verification
+• the Global Initiative to Combat Nuclear
+Terrorism
+• the G8 Non-Proliferation Directors Group
+• the Global Nuclear Energy Partnership
+CNSC provided technical and policy advice to
+Foreign Affairs and International Trade Canada, in
+negotiating and establishing new bilateral nuclear
+cooperation agreements with potential nuclear
+trading partner countries, and in amending existing
+agreements. In addition, CNSC assisted with
+ongoing implementation of provisions of existing
+nuclear cooperation agreements by managing and
+implementing bilateral administrative arrangements
+with its foreign counterparts.
+Determine, evaluate, track and
+report the CNSC’s participation in
+international activities on nuclear
+matters
+The CNSC has a number of tools at its disposal,
+enabling it to centrally track its participation in
+international activities, including a comprehensive
+database which allows for efficient reporting. Staff
+attending meetings abroad are required to prepare
+trip reports – these allow management to evaluate
+outcomes, promote efficient communication between
+staff working on similar files and build corporate
+memory.
+2007-2008 CNSC Departmental Performance Report
+39
+Program Sub-Activity: Stakeholder Relations
+Expected Outcome: Stakeholders’ understanding of the regulatory program
+Description: Regular meetings with industry groups and non-government organizations on matters related to
+the administration of the regulatory regime; outreach to communities hosting nuclear facilities; presentations
+and speeches at conferences and other fora; media relations; and provision of information to the public on
+regulatory matters.
+2007-2008
+Resources:
+($ thousands)
+Full-Time Equivalents
+Planned Spending
+7,306
+57
+Total Authorities
+7,924
+Actual Spending
+9,772
+Outcome Measures Target 2007-2008
+Results
+Achieved
+Lessons Learned and/or Challenges
+Level of stakeholder
+confidence in CNSC’s
+ability to regulate the use
+of nuclear energy and
+materials
+TBD N/A To maintain a high level of stakeholder confidence,
+CNSC visited, communicated and consulted with
+communities throughout Canada, engaged licensees,
+took steps to strengthen Aboriginal consultation,
+continued to improve public communications and the
+transparency of its process, and consulted with
+stakeholders from industry, government and nongovernmental
+organizations.
+Level of stakeholder
+participation in the
+CNSC’s decision-making
+process
+TBD N/A CNSC consults regularly with stakeholders and
+community members, sharing information about its
+activities and gathering public input in order to develop
+and maintain trust in its ability to regulate effectively.
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and Lessons
+Learned
+To foster
+increased
+awareness and a
+high level of
+confidence in the
+CNSC as an
+effective, efficient
+and transparent
+regulator
+Develop and implement a
+structured and sustainable
+outreach program
+CNSC has established a working group to improve
+Aboriginal consultations.
+CNSC is working to reach communities that are
+directly affected by licensing decisions for nuclear
+facilities, and seeks their opinions as part of the public
+hearing process. The Commission Tribunal
+demonstrated its commitment to community
+engagement when it visited Oshawa in January 2008,
+to hold a public hearing regarding the renewal of the
+Darlington Nuclear Generating Station’s power reactor
+operating licence. While in Oshawa, the Commission
+also held a public hearing to consider the
+Environmental Assessment screening report for
+Zircatec Precision Industries Inc.’s proposed project to
+produce slightly enriched uranium fuel bundles, among
+other agenda items.
+In 2007, CNSC launched a series of public information
+2007-2008 CNSC Departmental Performance Report
+40
+2007-2008 RPP
+Objective
+2007-2008 RPP Plans 2007-2008 Results Achieved, Challenges and Lessons
+Learned
+sessions on the industry report, as a means of sharing
+and discussing it with Canadians. These sessions
+offered an opportunity to engage the public, by
+providing information about nuclear safety while
+responding to the general concerns expressed by some
+host communities.
+CNSC held meetings with the Canadian Organization
+of Medical Physicists and conducted outreach activities
+with WesCan to discuss proposed amendments to the
+Class II Nuclear Facilities Regulations.
+Increase communication efforts:
+update and continue to implement
+the CNSC strategic
+communications and outreach
+plan.
+As of January 2008, Commission Tribunal hearings
+and meetings are broadcast live on the Internet,
+allowing people across the country and around the
+world to view the proceedings. Meetings and hearings
+are also archived on CNSC’s Web site, with a three
+month retention period, for subsequent retrieval.
+In September 2007, CNSC received approval from the
+Commission Tribunal to hold public consultations
+about two key regulatory documents regarding new
+nuclear power plants (RD-337, Design of New Nuclear
+Power Plants, and RD-346, Site Evaluation of New
+Nuclear Power Plants). After reviewing all comments
+received via consultations and the information session,
+CNSC posted them on its public Web site and modified
+RD-337 and RD-346 to reflect input where
+appropriate.
+CNSC meets periodically with representatives from the
+Canadian Nuclear Association through the Canadian
+Nuclear Association Regulatory Affairs Committee,
+which enables industry representatives to provide input
+and advice to CNSC on broader issues relating to
+nuclear regulation in Canada. The committee provides
+a forum for the industry association and CNSC to
+indicate priorities, directions being taken, or factors
+that are influencing their respective operations.
+CNSC has a non-governmental organization (NGO)
+Regulatory Affairs Committee, which communicates
+and consults with NGOs on nuclear regulatory and
+policy matters within its mandate. Co-chaired by a
+member of the NGO community, the committee is a
+forum for exchanging and clarifying information to
+promote common understanding of issues, allowing
+CNSC to better respond to the information needs of the
+NGO community. It also enables NGO members to
+provide input and advice to CNSC on broader issues
+relating to nuclear regulation in Canada.
+41
+SECTION III: SUPPLEMENTARY INFORMATION
+42
+Table 1: Comparison of Planned to Actual Spending (including FTEs)
+($ millions) 2005–2006 2006–2007
+2007–2008
+Actual Actual Main Planned Total
+Estimates Spending Authorities
+Actual
+Nuclear Regulation 75.5 85.3 94.5 94.6 103.5 99.8
+Total 75.5 85.3 94.5 94.6 103.5 99.8
+Less: Non-respendable
+revenue (52.6) (60.0) N/A (61.4) N/A (72.6)
+Plus: Cost of services
+received without charge 8.2 8.6 N/A 9.7 N/A 10.1
+Total Departmental
+Spending* 31.2 33.9 N/A 42.9 N/A 37.3
+Full-time Equivalents 517 569 N/A 730 N/A 639
+Note: May not balance due to rounding
+43
+Table 2: Voted and Statutory Items ($ millions)
+2007–2008
+Main Planned Total
+Vote or
+Statutory
+Item
+Truncated
+Vote or
+Statutory
+Wording Estimates Spending Authorities
+Actual
+20 Operating
+expenditures 84.1 84.2 92.5 88.9
+20 Grants and
+contributions 0.4 0.4 1.0 1.0
+(S)
+Contributions
+to employee
+benefit plans
+9.9 9.9 10.0 10.0
+Total 94.5 94.6 103.5 99.8
+Note: In 2007-2008, CNSC received authority from Treasury Board to amend the Class Grants and Contributions
+program and remove the overall spending limit on Contributions. However, within this framework, CNSC still has
+an annual maximum in Grant expenditures of $75,000.
+44
+Additional Tables
+The following tables can be found electronically on the Treasury Board Secretariat’s Web site, at
+http://www.tbs-sct.gc.ca/dpr-rmr/2007-2008/index-eng.asp:
+• Sources of Respendable and Non-Respendable Revenue
+• User Fees/External Fees
+• Response to Parliamentary Committees and External Audits
+• Internal Audits and Evaluations
+• Travel Policies
+45
+Financial Statements of Departments and Agencies (including Agents of Parliament)
+and Revolving Funds Financial Statements
+Financial statements are prepared in accordance with accrual accounting principles. The
+unaudited supplementary information presented in the financial tables in this report is prepared
+on a modified cash basis of accounting in order to be consistent with appropriations-based
+reporting.
+Financial statements are available online:
+http://www.nuclearsafety.gc.ca/eng/readingroom/reports/annual/
+46
+SECTION IV: OTHER ITEMS OF INTEREST
+47
+Performance of the Canadian Nuclear Power Industry
+Each year, CNSC publishes an annual Staff Report on the Safety Performance of the Canadian
+Nuclear Power Industry (Industry Report), a comprehensive report card of the performance of
+Canada’s five nuclear power reactor sites – Pickering, Darlington, Gentilly, Bruce and Point
+Lepreau.
+CNSC assesses licensee programs and their implementation separately, according to five ratings
+that range from “A” (exceeds requirements) to “E” (unacceptable). Grades are assigned for both
+the design of a program and its implementation, as well as for performance in each safety area
+and for programs within each safety area.
+In the 2007 Industry Report, CNSC personnel concluded that overall, the nuclear power plant
+industry operated safely. The vast majority of safety areas and programs received “B” grades,
+indicating that licensees met CNSC expectations. CNSC assigned a “C” grade where licensee
+performance fell below CNSC requirements. Even though a “C” rating does not indicate an
+unacceptable safety risk, CNSC continues to closely monitor facilities that received “C” grades,
+to ensure that licensees or applicants are making every effort to mitigate the issues identified
+throughout the year. No facility received a grade lower than a “C” in 2007.
+48
+Report Card on Nuclear Power Plant Performance as of January 2008
+Legend:
+P: Program I: Implementation
+A = Exceeds requirements
+B = Meets requirements
+C = Below requirements
+D = Significantly below requirements
+E = Unacceptable
+Notes:
+• “C” grades are highlighted.
+• The Bruce and Pickering sites receive separate grades for their respective facilities: Bruce A
+and Bruce B, and Pickering A and Pickering B.
+Safety Area/Program P or I Bruce Darlington Pickering Gentilly-2 Point
+Lepreau
+A B A B
+Operating Performance P B B B B B B B
+I B B B C B B B
+Organization and Plant P B B B B B B B
+Management I B B B C B B B
+P B B B B B B B
+Operations
+I B B B C B B B
+Occupational Health and P B B B B B B B
+Safety (non-radiological) I A A A B B B B
+Performance Assurance P B B B B B B B
+I B B B C B B B
+P B B B B B B B
+Quality Management
+I B B B C B C B
+P B B B B B B B
+Human Factors
+I B B B C B B C
+Training, Examination, P B B B B B B B
+and Certification I C B B B B B B
+Design and Analysis P B B B B B B B
+I B B B B B B B
+Safety Analysis P B B B B B B B
+I B B B B B B B
+P B B B B B B B
+Safety Issues
+I B B B B B B B
+Design P B B B B B B B
+49
+Safety Area/Program P or I Bruce Darlington Pickering Gentilly-2 Point
+Lepreau
+A B A B
+I C B B C B B B
+Equipment Fitness P B B B B B B B
+for Service I B B B B B B B
+P B B B B B B B
+Maintenance
+I C B B B B B B
+P B B B B B B B
+Structural Integrity
+I B B B B B B B
+P B B B B B B A
+Reliability
+I B B B B B B B
+P B B B B B B B
+Equipment Qualification
+I B B C B B B B
+Emergency P A A A A A A A
+Preparedness I A A A A A B B
+Environmental P B B B B B B B
+Protection I B B B B B B B
+Radiation Protection P B B B B B B B
+I B B A B B B B
+P Secret
+Site Security
+I Secret
+Safeguards P B B B B B B B
+I B B B B B B B
+50
+External Performance Standards
+Activity Performance
+standard Target Performance
+2005-06
+Performance
+2006-07
+Performance
+2007-2008
+Compliance9
+Verification: Upon completion of the verification activity, CNSC will:
+Issue Type I Inspection Report10 Within 60 business
+days 80% 50% 58% 69%
+Issue Type II Inspection Report11 Within 40 business
+days 80% 86% 90% 85%
+Issue Desktop Review Report10 Within 60 business
+days 90% 70% 79% 95%
+Enforcement: upon an Order being made, CNSC will:
+Confirm, amend, revoke or replace the
+Order (see regulatory guide G-273,
+Making, Reviewing and Receiving Orders
+Under the Nuclear Safety and Control Act)
+Within 10 business
+days 100% 100% 100% 100%
+Licensing9: For requests pertaining to an existing licence, the CNSC will:
+Screen the request for completeness and
+issue notification that the licensing request
+is / is not complete12, 13
+Within 20 business
+days 90% 100% 97% 56%
+Issue a licensing decision when a public
+hearing is not required, assuming an EA
+under the CEAA is not required
+Within 80 business
+days 80% 97% 98% 83%
+Issue a licensing decision when a public
+hearing is required, assuming an EA under
+the CEAA is not required (see INFO-0715,
+Canadian Nuclear Safety Commission
+Public Hearings on Licensing Matters)13
+Within 160 business
+days 90% 100% 83% 100%
+Access to Information
+Respond to requests under the Access to
+Information Act and Privacy Act14
+Within legislated
+time periods as stated
+in the acts
+100% 94%
+Access to
+information – 82%
+Privacy – 100%
+Access to
+information – 61%
+Privacy – 100%
+9 Compliance and licensing results are based upon available performance data.
+10 Using CNSC’s risk-informed approach to regulation, initial priority was given to the completion of reports whose results were of greater
+significance.
+11 In power reactors, unless major issues arise, findings from field inspections and control room inspections will be reported on a quarterly basis,
+within 40 business days of end of quarter.
+12 Initial priority was given to screening of requests from licensees that are of higher risk.
+13 The screening and hearing processes do not apply to licensing and certification activities that are related to nuclear substances, radiation
+devices, Class II facilities, prescribed equipment, transport and packaging.
+14 CNSC received 120 requests for access to information during 2007–08, an approximately 67increase from the 72 requests in 2006–07. Of the
+2007–08 requests, more than half were received in the fourth quarter of the fiscal year and many were of significant length and complexity.
+CNSC has added two full-time employees to its Access to Information and Privacy Program and implemented additional measures to ensure full
+future compliance with legislated timelines in the Access to Information Act and the Privacy Act.
+51
+Activity Performance
+standard Target Performance
+2005-06
+Performance
+2006-07
+Performance
+2007-2008
+External Communications
+Place public hearings advertisements
+Within deadlines
+stipulated in the
+regulations
+100% 95% 100% 100%
+Response time to public inquiries
+Same-day
+acknowledgement,
+with response time
+for completion of
+request depending
+upon complexity:
+100% 100% 100% 100%
+Low – same day 100% 100% 100% 100%
+Medium – within 5
+business days 100% 95% 95% 95%
+High – within 10
+business days 100% 80% 75% 80%
+Commission Tribunal Decisions
+Number of decisions in 2007–08 43
+Average number of days to release decision 16
+Decisions released within 30 days 41
+Decisions released after 30 days 2
+52
+CNSC’s Regulatory Plan
+Regulations Expected Results Measurement
+Criteria
+2007-2008 Results Achieved
+Nuclear Substances
+and Radiation Devices
+Regulations-
+Amendments
+• Address issues noted by the
+Parliamentary Standing Joint
+Committee for the Scrutiny
+of Regulations
+• Correct regulatory
+deficiencies that have come
+to light since the regulations
+came into force on May 31,
+2000
+• Adopt the latest exemption
+values in IAEA Basic Safety
+Standards
+Completion of the
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+March 14, 2008. The regulations were
+registered April 17, 2008 and were
+published in Canada Gazette Part II
+April 30, 2008.
+Amendments completed and
+regulatory deficiencies corrected and
+issues addressed IAEA standards
+adopted.
+Class II Nuclear
+Facilities and
+Prescribed Equipment
+Regulations -
+Amendments
+• Address issues that have
+been noted by the
+Parliamentary Standing Joint
+Committee on Scrutiny of
+Regulations
+• Correct certain regulatory
+deficiencies that have come
+to light since the regulations
+came into force on May 31,
+2000.
+Completion of the
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+March 14, 2008. The regulations were
+registered April 17, 2008 and were
+published in Canada Gazette Part II
+April 30, 2008.
+Amendments completed and
+regulatory deficiencies corrected and
+issues addressed.
+General Nuclear Safety
+and Control
+Regulations and
+Class I Nuclear
+Facilities Regulations-
+Amendments
+• Consequential amendments
+as a result of amendments to
+Nuclear Substances and
+Radiation Devices
+Regulations and Class II
+Nuclear Facilities and
+Prescribed Equipment
+Regulations
+Completion of the
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+March 14, 2008. The regulations were
+registered April 17, 2008 and were
+published in Canada Gazette Part II
+April 30, 2008.
+Amendments completed.
+General Nuclear Safety
+and Control
+Regulations - Class I
+Nuclear Facilities
+Regulations - Class II
+Nuclear Facilities and
+Prescribed Equipment
+Regulations - Nuclear
+Substances and
+Radiation Devices
+Regulations
+Amendments
+• Provide for the incorporation
+of a number of international
+standards and correct minor
+deficiencies or
+inconsistencies.
+Completion of
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+March 26, 2008. The regulations were
+registered April 17, 2008 and were
+published in Canada Gazette Part II
+April 30, 2008.
+Amendments completed and
+regulatory deficiencies corrected and
+issues addressed.
+Nuclear Safeguards
+Regulations
+(new regulations)
+• Establish generic safeguards
+regulations in lieu of existing
+safeguards licence conditions
+to facilitate compliance with
+international safeguards
+agreements
+Regulations
+completed.
+No significant work done on this
+project since June 2007 because of
+staffing and job priority issues.
+Timeline will have to be reassessed.
+53
+Regulations Expected Results Measurement
+Criteria
+2007-2008 Results Achieved
+Nuclear Nonproliferation
+Import
+and Export Control
+Regulations -
+Amendments
+• Ensure that the export and
+import provisions and
+licensing requirements are
+compatible with
+developments in
+international agreements and
+guidance
+• Address issues raised by the
+Parliamentary Standing Joint
+Committee on regulations
+• Clarify minor ambiguities
+Completion of the
+amendments to the
+regulations.
+Technical drafting instructions were
+prepared and reviewed with the
+Department of Justice. CNSC staff
+also made the proposed draft
+amendments available for preconsultation
+with interested
+government agencies and
+exporters/importers from August to
+October 2007; comments received
+informed modifications to the drafting
+instructions.
+Canadian Nuclear
+Safety Commission
+Rules of Procedure and
+Canadian Nuclear
+Safety Commission Bylaws-
+Amendments
+• Update Rules of Procedure
+and By-laws to reflect best
+practices in the area of
+administrative tribunals.
+Rules of Procedure
+and By-laws updated.
+Triage questionnaire was approved by
+Treasury Board Secretariat in January
+2008. CNSC has developed drafting
+instructions for Justice Canada to
+review and to begin drafting
+regulations.
+Regulations Amending
+the Canadian Nuclear
+Safety Commission
+Cost Recovery Fees
+Regulations
+(Miscellaneous
+Program)-
+Amendments
+• Clarify certain sections of the
+regulations and to address
+the concerns of the Standing
+Joint Committee for the
+Scrutiny of Regulations with
+respect to these regulations
+Completion of the
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+February 21, 2008. The regulations
+were registered April 17, 2008 and
+were published in Canada Gazette
+Part II April 30, 2008.
+Amendments completed - clarified
+certain sections and issues addressed.
+Regulations Amending
+Certain Instruments
+made under the
+Nuclear Safety and
+Control Act
+(Miscellaneous
+Program)-
+Amendments
+• To correct minor
+inconsistencies between the
+English and French versions
+in the Regulations and Rules
+listed hereunder: - General
+Nuclear Safety and Control
+Regulations - Radiation
+Protection Regulations -
+Class I Nuclear Facilities
+Regulations -
+Uranium Mines and Mills
+Regulations -
+Nuclear Non-proliferation
+Import and Export Control
+Regulations - Canadian
+Nuclear Safety Commission
+Rules of Procedure
+Completion of the
+amendments to the
+regulations.
+The Canadian Nuclear Safety
+Commission made the regulations on
+June 21, 2007. They came into effect
+September 18, 2007 and were
+published in Canada Gazette Part II
+October 3, 2007.
+Amendments completed –
+inconsistencies corrected.
+Class II Nuclear
+Facilities Regulations-
+Amendments
+• Give a regulatory basis to the
+current practice of approving
+Radiation Safety Officers at
+Class II facilities
+Completion of the
+amendments to the
+regulations.
+Justice Canada and CNSC are
+working on the wording for the
+proposed amendments to the Class II
+regulations in preparation for the
+formal pre-consultation.
+54
