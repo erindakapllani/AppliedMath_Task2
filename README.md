@@ -1,1 +1,1 @@
-# AppliedMath_Task2
+# QA Pairs Generation
